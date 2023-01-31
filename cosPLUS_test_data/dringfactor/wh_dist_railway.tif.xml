@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="zh"><Esri><CreaDate>20190120</CreaDate><CreaTime>10173900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20190120" Time="101739">ExtractByMask dist2railway.tif wh_change_00_13.tif Z:\Xun\wh\drivngfactor\wh_dist_railway.tif</Process></lineage></DataProperties></Esri></metadata>
