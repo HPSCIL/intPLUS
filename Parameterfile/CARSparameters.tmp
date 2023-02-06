@@ -1,0 +1,56 @@
+<Input classes>
+7
+<Input LULC>
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/LULCs/wh2003_refy.tif
+<Input Probability Folder>
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_1.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_2.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_3.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_4.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_5.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_6.tif
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Prob/Prob_band_7.tif
+<Output simulation>
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/Simulation.tif
+<Input Policy>
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/water/wh_open_water13.tif
+<Input Real Land Use>
+C:/Users/liang/Downloads/cosCA_cosPLUS-main/cosCA_cosPLUS-main/cosPLUS_test_data/LULCs/wh2013_refy.tif
+<Input Parameter>
+
+<Input Neighborhood>
+3
+<How many years>
+1
+<Input thread count>
+8
+<Patch generation>
+0.5
+<Expansion coefficient>
+0.1
+<Neighborhood Weight>
+0.0333,0.072,0.2148,0.4493,0.0279,0.1305,0.0721
+<Transition matrix>
+1,1,1,1,1,1,1
+0,1,0,0,0,0,0
+1,1,1,1,1,1,1
+0,0,0,1,0,0,0
+1,1,1,1,1,1,1
+1,1,1,1,1,1,1
+0,0,1,0,0,0,1
+<Years and corresponding demands>
+1,43394,231113,2477678,929417,39413,1453586,150790
+<Percentage of seeds>
+0.01
+<Development type exist>
+0
+<Development type>
+0
+<Development weight>
+0.5
+<Tree amount>
+20
+<Sampling rate>
+0.1
+<Scale factor>
+200
