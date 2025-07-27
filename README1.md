@@ -12,14 +12,15 @@ code: tsdw
 https://xungst.github.io/
 
 # Interfaces
-![add image](https://github.com/HPSCIL/intPLUS/raw/master/pic1.png)
-![add image](https://github.com/HPSCIL/intPLUS/raw/master/pic2.png)
+![add image](https://github.com/HPSCIL/intPLUS/blob/main/pic1.png)
+![add image](https://github.com/HPSCIL/intPLUS/blob/main/pic2.png)
+![add image](https://github.com/HPSCIL/intPLUS/blob/main/pic3.png)
 
 # Running environment
 Run intPLUS software by double-clicking the exe file 'intPLUS V1.3_boxed.exe'. intPLUS software can run independently on Windows Vista/7/8/X 64-bit environment, without any dependencies and setup process.
 # User manual
-Please find the attached PDF file 'User Manual intPLUS -20191206-Eng.pdf' in the Repository.  
-中文说明：intplus模型原理和软件介绍-v2.pdf
+Please find the attached PDF file 'UserManual of the intPLUS model  20250722 English.pdf' in the Repository.  
+中文说明：UserManual of the intPLUS model  20250722 Chinese.pdf
 
 # Test data
 Please find the compressed file 'intPLUS_test_data.zip' in the Repository. 
