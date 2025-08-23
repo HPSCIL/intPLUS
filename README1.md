@@ -9,7 +9,8 @@ https://pan.baidu.com/s/1l_OhKYWUy45F2mK5dQbbfw
 code: tsdw 
 
 # Video Tutorial
-https://www.bilibili.com/video/BV1L4twzDEQ5/?spm_id_from=333.1387.homepage.video_card.click 
+Chinese: https://www.bilibili.com/video/BV1L4twzDEQ5/?spm_id_from=333.1387.homepage.video_card.click 
+English: https://www.bilibili.com/video/BV1kkevzgEoH/?spm_id_from=333.337.search-card.all.click
 
 # More Information
 https://xungst.github.io/
