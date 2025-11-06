@@ -10,7 +10,7 @@ code: tsdw
 
 # Video Tutorial
 Chinese: https://www.bilibili.com/video/BV1L4twzDEQ5/?spm_id_from=333.1387.homepage.video_card.click  
-English: https://www.bilibili.com/video/BV1kkevzgEoH/?spm_id_from=333.337.search-card.all.click
+English: https://www.bilibili.com/video/BV1kkevzgEoH?vd_source=f03c1607e2090d0f3e7e92eef1517444&spm_id_from=333.788.videopod.sections
 
 # More Information
 https://xungst.github.io/
